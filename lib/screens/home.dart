@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'web_view_container.dart';
 
 class Home extends StatelessWidget {
-  static final links = ['https://google.com'];
+  static final links = ['https://google.com', 'https://bing.com', 'http://192.168.0.199', 'http://192.168.0.88', 'http://192.168.33.156'];
 
   @override
   Widget build(BuildContext context) {
